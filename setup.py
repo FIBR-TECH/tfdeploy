@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lfdeploy",
-    version="1.2.4",
+    version="1.2.5",
     author="Przemyslaw Winszczyk",
     author_email="n3onix@gmail.com",
     description="Improved tfdeploy module",
