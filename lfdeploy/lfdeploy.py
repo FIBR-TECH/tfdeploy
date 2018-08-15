@@ -37,9 +37,6 @@ except ImportError:
     # python 3
     import pickle
 
-# third-party imports
-import numpy as np
-
 
 # metaclass decorator from six package, credits to Benjamin Peterson
 def add_metaclass(metaclass):
