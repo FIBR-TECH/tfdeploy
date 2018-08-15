@@ -29,6 +29,7 @@ import os
 import re
 from uuid import uuid4
 from functools import reduce
+import numpy as np 
 
 try:
     # python 2
