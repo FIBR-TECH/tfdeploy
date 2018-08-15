@@ -10,7 +10,7 @@ setuptools.setup(
     author_email="n3onix@gmail.com",
     description="Improved tfdeploy module",
     url="https://github.com/LendFlo/Lendflo-tfdeploy",
-    packages=setuptools.find_packages(),
+    packages = ['lfdeploy'],
     classifiers=(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
